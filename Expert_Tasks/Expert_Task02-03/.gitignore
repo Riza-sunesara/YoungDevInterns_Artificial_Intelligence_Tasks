@@ -1,0 +1,52 @@
+# === General ===
+.env
+.env.*     # Like .env.local, .env.dev
+.envrc
+__pycache__/
+*.py[cod]
+*.sqlite3
+.DS_Store
+Thumbs.db
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.log
+logs/
+*.sw?
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# === Python (Backend) ===
+/backend/__pycache__/
+/backend/env/
+/backend/venv/
+/backend/*.py[cod]
+/backend/.env
+/backend/.pytest_cache/
+/backend/.mypy_cache/
+
+# === Node (Frontend) ===
+/frontend/node_modules/
+/frontend/dist/
+/frontend/dist-ssr/
+/frontend/*.local
+/frontend/.env
+/frontend/logs
+/frontend/*.log
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+/frontend/pnpm-debug.log*
+/frontend/lerna-debug.log*
+/frontend/.idea
+/frontend/.vscode/*
+!/frontend/.vscode/extensions.json
+
+# === Optional: test coverage, build artifacts ===
+coverage/
+build/
+.cache/
+.next/
+out/
