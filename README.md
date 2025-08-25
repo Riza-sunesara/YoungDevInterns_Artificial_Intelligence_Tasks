@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?logo=scikitlearn)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-TensorFlow%2FPyTorch-red?logo=pytorch)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?logo=mongodb)
 ![Status](https://img.shields.io/badge/Completion-100%25-success)
 
 ---
